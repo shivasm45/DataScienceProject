@@ -1,6 +1,5 @@
-# NEOs Dataset (Prediction of NEO using Machine Learning Algorithm)
+# NASA NEOs Dataset (Prediction of NEO using Machine Learning Algorithm)
 
-Title : PREDICTION OF POTENTIALLY HAZARDOUS NEAREST EARTH OBJECTS (NEOs) USING MACHINE LEARNING
 
 ### The attributes of NASA NEO dataset are:
 -> id : identifier (the same object can have several rows in the dataset, as it has been observed multiple times)
