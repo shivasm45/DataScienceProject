@@ -1,4 +1,4 @@
-# Data Science Project 
+# NEOs Dataset (Prediction of NEO using Machine Learning Algorithm)
 
 Title : PREDICTION OF POTENTIALLY HAZARDOUS NEAREST EARTH OBJECTS (NEOs) USING MACHINE LEARNING
 
